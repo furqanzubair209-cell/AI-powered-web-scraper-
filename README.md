@@ -58,3 +58,68 @@ The agent demonstrates Artificial Intelligence concepts such as sensors, actuato
 ---
 ## ⚙️ Install Dependencies 
 pip install requests beautifulsoup4 pandas
+## 🚀 Usage
+
+Run the notebook or Python script to start scraping.
+
+The agent will:
+
+- Visit pages  
+- Extract books  
+- Filter data  
+- Generate output files  
+
+---
+
+## 📊 Output Example
+
+The generated dataset includes:
+
+- Title  
+- Price  
+- Availability  
+
+Saved as:
+
+- CSV file  
+- JSON file  
+
+---
+
+## ⚠️ Ethical Scraping
+
+This project follows ethical scraping practices:
+
+- Uses request delays  
+- Handles errors  
+- Respects website structure  
+- Demonstrates robots.txt awareness  
+
+---
+
+## 🎯 Learning Outcomes
+
+After completing this project, students understand:
+
+- How AI agents interact with web environments  
+- Data extraction from semi-structured sources  
+- Pagination handling  
+- Filtering logic  
+- Structured data storage  
+
+---
+
+## 🔮 Future Improvements
+
+- Selenium support for dynamic websites  
+- Keyword-based scraping  
+- Database storage  
+- Parallel scraping  
+- AI-based selector detection  
+- Real-time dashboards  
+
+---
+
+## 👨‍💻 Author
+
+**Muhammad Furqan**  
