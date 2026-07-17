@@ -1,5 +1,3 @@
-# AI-powered-web-scraper-
-An AI-powered web scraping agent that navigates web pages, extracts book data, filters books under £20, and stores results in structured CSV and JSON formats.
 # 🤖 AI Web Scraping Agent
 
 This project implements an **AI-powered information agent** that autonomously navigates a website, extracts specific data, applies filtering logic, and stores results in structured formats.
